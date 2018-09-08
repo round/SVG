@@ -12,7 +12,7 @@
 		}
 		@keyframes animate {
 			to {
-				stroke-dashoffset: -100;
+				stroke-dashoffset: -113;
 				transform: rotate(360deg);
 			}
 		}

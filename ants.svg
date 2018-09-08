@@ -3,7 +3,7 @@
 		rect {
 			fill: none;
 			stroke: #000;
-			stroke-width: 1px;
+			stroke-width: 2px;
 			vector-effect: non-scaling-stroke;
 			shape-rendering: geometricPrecision;
 			stroke-dasharray: 4px;
