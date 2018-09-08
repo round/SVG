@@ -7,7 +7,7 @@
 			shape-rendering: geometricPrecision;
 			stroke-dasharray: 113;
 			stroke-dashoffset: 113;
-			transform-origin: 50%;
+			transform-origin: 20px 20px;
 			animation: animate 2s linear infinite;
 		}
 		@keyframes animate {
