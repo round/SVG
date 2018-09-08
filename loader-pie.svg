@@ -6,13 +6,13 @@
 			stroke-width: 20px;
 			shape-rendering: geometricPrecision;
 			stroke-dasharray: 63;
-			stroke-dashoffset: 63;
+			stroke-dashoffset: 126;
 			transform-origin: 50%;
 			animation: animate 2s linear infinite;
 		}
 		@keyframes animate {
 			to {
-				stroke-dashoffset: -63;
+				stroke-dashoffset: 0;
 			}
 		}
 	</style>

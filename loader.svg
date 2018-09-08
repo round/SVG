@@ -6,13 +6,13 @@
 			stroke-width: 4px;
 			shape-rendering: geometricPrecision;
 			stroke-dasharray: 113;
-			stroke-dashoffset: 113;
+			stroke-dashoffset: 226;
 			transform-origin: 20px 20px;
 			animation: animate 2s linear infinite;
 		}
 		@keyframes animate {
 			to {
-				stroke-dashoffset: -113;
+				stroke-dashoffset: 0;
 				transform: rotate(360deg);
 			}
 		}
