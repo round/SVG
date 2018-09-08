@@ -6,7 +6,7 @@
 			stroke-width: 40px;
 			shape-rendering: geometricPrecision;
 			stroke-dasharray: 125;
-			stroke-dashoffset: 250
+			stroke-dashoffset: 250;
 			transform-origin: 50%;
 			animation: animate 2s linear infinite;
 		}
