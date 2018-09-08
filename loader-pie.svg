@@ -1,0 +1,20 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewbox='0 0 40 40'>
+	<style>
+	 	circle {
+			fill: none;
+			stroke: #000;
+			stroke-width: 20px;
+			shape-rendering: geometricPrecision;
+			stroke-dasharray: 63;
+			stroke-dashoffset: 63;
+			transform-origin: 50%;
+			animation: animate 2s linear infinite;
+		}
+		@keyframes animate {
+			to {
+				stroke-dashoffset: -63;
+			}
+		}
+	</style>
+	<circle cx='20' cy='20' r='10'/>
+</svg>

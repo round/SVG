@@ -1,0 +1,21 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewbox='0 0 40 40'>
+	<style>
+	 	circle {
+			fill: none;
+			stroke: #000;
+			stroke-width: 4px;
+			shape-rendering: geometricPrecision;
+			stroke-dasharray: 113;
+			stroke-dashoffset: 113;
+			transform-origin: 50%;
+			animation: animate 2s linear infinite;
+		}
+		@keyframes animate {
+			to {
+				stroke-dashoffset: -100;
+				transform: rotate(360deg);
+			}
+		}
+	</style>
+	<circle cx='20' cy='20' r='18'/>
+</svg>
