@@ -1,6 +1,6 @@
 <svg xmlns='http://www.w3.org/2000/svg' viewbox='0 0 40 40' width='40' height='40' preserveAspectRatio='none'>
 	<style>
-		path {
+		rect, path {
 			fill: none;
 			stroke: #000;
 			stroke-width: 1px;
@@ -9,11 +9,18 @@
 			stroke-dasharray: 4px;
 			animation: animate 0.2s linear infinite;
 		}
+		rect {
+			stroke-width: 2px;
+		}
 		@keyframes animate {
 			to {
 				stroke-dashoffset: 8px;
 			}
 		}
 	</style>
+	<path d='M 40,40 L 20,20'/>
+	<path d='M 0,40 L 20,20'/>
+	<path d='M 40,0 L 20,20'/>
+	<path d='M 0,0 L 20,20'/>
 	<rect width='40' height='40'/>
 </svg>
