@@ -1,11 +1,11 @@
 # Useful SVGs
 
-<img src='https://rawgit.com/round/SVG/master/ants.svg' width='200' height='128'>
+## Placeholders
+<img src='placeholder.svg' width='200'> <img src='placeholder-x.svg' width='200'>
 
-<img src='https://rawgit.com/round/SVG/master/placeholder.svg' width='200' height='128'>
+## Ants
 
-<img src='https://rawgit.com/round/SVG/master/loader.svg' width='200' height='128'>
+<img src='ants.svg' width='200'> <img src='ants-x.svg' width='200'> 
 
-<img src='https://rawgit.com/round/SVG/master/loader-pie.svg' width='200' height='128'>
-
-<img src='https://rawgit.com/round/SVG/master/loader-square.svg' width='200' height='128'>
+## Loaders
+<img src='loader.svg' width='200'> <img src='loader-pie.svg' width='200'> <img src='loader-square.svg' width='200'>
