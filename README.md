@@ -8,4 +8,4 @@
 <img src='ants.svg' width='100'> <img src='ants-x.svg' width='100'> 
 
 ## Loaders
-<img src='loader.svg' width='100'> <img src='loader-pie.svg' width='100'> <img src='loader-square.svg' width='100'>
+<img src='loader.svg' width='100'> <img src='loader-pie.svg' width='100'> <img src='loader-pie-spin.svg' width='100'> <img src='loader-square.svg' width='100'> <img src='loader-square-spin.svg' width='100'>
