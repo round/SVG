@@ -7,7 +7,7 @@
 			vector-effect: non-scaling-stroke;
 			shape-rendering: geometricPrecision;
 			stroke-dasharray: 4px;
-			stroke-dashoffset: 0;
+			stroke-dashoffset: 8;
 			animation: animate 0.2s linear infinite;
 		}
 		rect {
