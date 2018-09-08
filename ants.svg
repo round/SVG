@@ -11,7 +11,7 @@
 		}
 		@keyframes animate {
 			to {
-				stroke-dashoffset: 8px;
+				stroke-dashoffset: -8px;
 			}
 		}
 	</style>

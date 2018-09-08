@@ -14,13 +14,13 @@
 		}
 		@keyframes animate {
 			to {
-				stroke-dashoffset: 8px;
+				stroke-dashoffset: -8px;
 			}
 		}
 	</style>
-	<path d='M 40,40 L 20,20'/>
-	<path d='M 0,40 L 20,20'/>
-	<path d='M 40,0 L 20,20'/>
-	<path d='M 0,0 L 20,20'/>
+	<path d='M 20,20 L 40,40'/>
+	<path d='M 20,20 L 00,40'/>
+	<path d='M 20,20 L 40,0'/>
+	<path d='M 20,20 L 0,0'/>
 	<rect width='40' height='40'/>
 </svg>
