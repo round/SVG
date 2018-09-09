@@ -8,6 +8,7 @@
 			stroke-dasharray: 63;
 			stroke-dashoffset: 126;
 			transform-origin: 50%;
+			transform: rotate(-90deg);
 			animation: animate 2s linear infinite;
 		}
 		@keyframes animate {
